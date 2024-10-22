@@ -1,0 +1,5 @@
+Week 2:5
+Lecture 2: State Space Search https://www.youtube.com/playlist?list=PLwnUv3sNB6_U0YnB05EUBOCXmbHf-oobp
+Lecture 3: Informed Search https://youtube.com/playlist?list=PLwnUv3sNB6_XlJhYfNNF-IVUF3Ai4UTCH&si=Bd3-CJn9Nay6q17I
+Lecture 4: Iterative Improvement Algorithm https://www.youtube.com/playlist?list=PLwnUv3sNB6_VRvtNbaev41L9SoLnDLGPG
+Lecture 5: ML PIpeline https://www.youtube.com/playlist?list=PLwnUv3sNB6_VbC8h8YoQyg9mHzi5bnH8c
